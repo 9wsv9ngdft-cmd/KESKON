@@ -1,0 +1,15 @@
+{
+  "name": "KESKON",
+  "short_name": "KESKON",
+  "description": "On décide tout, ensemble.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8ED",
+  "theme_color": "#FF3D8C",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
